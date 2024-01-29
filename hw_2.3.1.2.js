@@ -27,3 +27,4 @@ const testPlayers = [
       break;
     }
   }
+  //Result { id: 5, name: '', scorePoints: 6000 }
